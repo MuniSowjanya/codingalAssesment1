@@ -1,0 +1,48 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.App tbody {
+  margin-top: 5rem;
+  color: rgb(7, 7, 95);
+  font-size: 20px;
+}
+
+.App table {
+  font-size: 10px;
+  background-color: rgb(240, 206, 144);
+}
+
+.App tr {
+  box-shadow: 0px 1px rgb(197, 109, 109);
+}
+
+.App th {
+  padding: 2px;
+  border-left: 1px solid brown;
+}
+
+.App td {
+  padding: 2px;
+  padding-bottom: 4px;
+  border-left: 1px solid brown;
+}
+
+/* 
+.pagination-background {
+  margin: 2rem;
+  margin-left: 10rem;
+  margin-right: 10rem;
+  background-color: rgb(223, 162, 172);
+  border-radius: 20px;
+  padding: 0.2px;
+  justify-content: space-between;
+} */
+
+.pagination {
+  align-items: center;
+  margin-top: 2rem;
+  margin-left: 30rem;
+  font-family: inherit;
+  font-size: 5px;
+}

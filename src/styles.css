@@ -1,0 +1,30 @@
+.App {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.header {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  list-style: none;
+}
+.sub {
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+}
+.btn {
+  background-color: #fb390f;
+  width: 90px;
+  height: 30px;
+  border-radius: 4px;
+}
+.btn2 {
+  background-color: #f7f7f7;
+  width: 90px;
+  height: 30px;
+  border-radius: 4px;
+}
+.list {
+  list-style: none;
+}
